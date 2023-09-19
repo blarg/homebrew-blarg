@@ -1,4 +1,8 @@
-# Blarg Blarg
+# homebrew-blarg
+
+Custom Homebrew Tap
+
+## Blarg Blarg
 
 ## How do I install these formulae?
 
